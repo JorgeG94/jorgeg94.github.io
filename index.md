@@ -18,30 +18,35 @@ I am currently advised by professor Mark S. Gordon. My primary research interest
 ### 2020 
 
 **High-Performance, Graphics Processing Unit-Accelerated Fock Build Algorithm** [LINK](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c00768)
+
 Giuseppe M. J. Barca, **Jorge Luis Galvez Vallejo**, David L. Poole, Alistair P. Rendell, Mark S. Gordon
 
 _J. Chem. Theory Comput._ 2020, 16, 12, 7232–7238
 
 
 **Scaling the Hartree-Fock matrix build on Summit** [LINK](https://ieeexplore.ieee.org/abstract/document/9355281)
+
 Giuseppe M. J. Barca, David L. Poole, **Jorge Luis Galvez Vallejo**, Melisa Alkan, Colleen Bertoni, Alistair P. Rendell, Mark S. Gordon 
 
 Supercomputing 2020 Conference Series
 
 
 **A New Kid on the Block: Application of Julia to Hartree-Fock Calculations** [LINK](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c00337)
+
 David Poole, **Jorge Luis Galvez Vallejo**, Mark S. Gordon
 
 _J. Chem. Theory Comput._ 2020, 16, 8, 5006–5013
 
 
 **Novel Computers architectures and quantum chemistry** [LINK](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c02249)
+
 Mark S. Gordon, Giuseppe Barca, Sarom S. Leang, David Poole, Alistair P. Rendell, **Jorge Luis Galvez Vallejo**, Bryce Westheimer 
 
 _J. Phys. Chem. A_ 2020, 124, 23, 4557–4582
 
 
 **Recent developments in the general atomic and molecule electronic system** [LINK](https://aip.scitation.org/doi/abs/10.1063/5.0005188)
+
 J. Chem. Phys. 152, 154102 (2020)
 
 
