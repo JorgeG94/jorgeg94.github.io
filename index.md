@@ -17,7 +17,11 @@ I am currently advised by professor Mark S. Gordon. My primary research interest
 
 ### 2021 
 
-** Water in here now ** 
+** Bonding analysis of water clusters using quasi-atomic orbitals ** [LINK](https://pubs.rsc.org/en/content/articlehtml/2021/cp/d1cp02301b)
+
+**Jorge Luis Galvez Vallejo **, Juan Duchimaza Heredia, Mark S. Gordon
+
+DOI: 10.1039/D1CP02301B (Paper) Phys. Chem. Chem. Phys., 2021, 23, 18734-18743
 
 ### 2020 
 
