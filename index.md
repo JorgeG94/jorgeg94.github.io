@@ -9,7 +9,8 @@ I am currently advised by professor Mark S. Gordon. My primary research interest
 - Chemical bonding analysis 
 - Chemistry of aging fuels
 - High Performance Computing 
-- Novel programming languages 
+- Novel programming languages
+- Heterogeneous catalysis
 
 ## About Jorge
 
