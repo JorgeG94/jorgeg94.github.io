@@ -11,7 +11,9 @@ I am currently advised by professor Mark S. Gordon. My primary research interest
 - High Performance Computing 
 - Novel programming languages 
 
+## About Jorge
 
+Jorge was born in Tampico, Tamaulipas a small city in Mexico right on the Gulf Coast. 
 
 ## Publications
 
