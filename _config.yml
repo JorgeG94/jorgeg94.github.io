@@ -30,7 +30,7 @@ twitter_username: glvz
 github_username:  JorgeG94
 
 # Build settings
-theme: minimal 
+theme: minima 
 #remote_theme: pages-themes/modernist@v0.2.0
 plugins:
   - jekyll-feed
