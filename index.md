@@ -15,6 +15,10 @@ I am currently advised by professor Mark S. Gordon. My primary research interest
 
 ## Publications
 
+### 2021 
+
+** Water ** 
+
 ### 2020 
 
 **High-Performance, Graphics Processing Unit-Accelerated Fock Build Algorithm** [LINK](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c00768)
