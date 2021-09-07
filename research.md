@@ -4,6 +4,14 @@ title: Research
 permalink: /research/
 ---
 
+My research interests are quite varied and cover:
+
+- [Chemical bonding analysis]({% link docs_research/bonding.md %}) 
+- Chemistry of aging fuels
+- High Performance Computing 
+- Novel programming languages
+- Heterogeneous catalysis
+
 
 ## Publications
 
@@ -49,21 +57,3 @@ _J. Phys. Chem. A_ 2020, 124, 23, 4557–4582
 
 J. Chem. Phys. 152, 154102 (2020)
 
-
-
-
-
-
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
