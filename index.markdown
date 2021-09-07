@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Jorge Luis Galvez Vallejo
-
 Chemistry PhD Student at [Iowa State University](https://www.chem.iastate.edu/) in Mark Gordon's [group](https://www.msg.chem.iastate.edu/). 
 
 **Email:** jg4 at iastate.edu
