@@ -16,18 +16,11 @@
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>Hi there My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.&#xA;We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.&#xA;This theme is pretty basic and covers all of the essentials. All you have to do is start typing!</description>
-    </item>
-    <item>
       <title>Hello Friend</title>
       <link>//localhost:1313/posts/hello/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/hello/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&#xA;Fusce pharetra suscipit orci nec tempor.</description>
+      <description>AALorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&#xA;Fusce pharetra suscipit orci nec tempor.</description>
     </item>
   </channel>
 </rss>
