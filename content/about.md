@@ -1,10 +1,10 @@
 +++
 title = "About"
-date = "2025-08-05"
+date = "2025-08-04"
 author = "Jorge"
 +++
 
-# Hello there
+# Hi there
 
 My name is Jorge and I am a weird hybrid mixture of computational chemist and research software engineer with 
 experience in High Performance Computing (HPC), specially on using GPUs to solve cool, challenging problems. 

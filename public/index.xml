@@ -6,8 +6,15 @@
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>Hi there My name is Jorge and I am a weird hybrid mixture of computational chemist and research software engineer with experience in High Performance Computing (HPC), specially on using GPUs to solve cool, challenging problems.&#xA;I have experience using Python, Julia, C, C++, CUDA, HIP, and Fortran for developing scientific applications. Lately, I have had enough in my life of C/C++ and I am currently favouring Fortran a bit more than what I did during my postdoctoral appointment.</description>
+    </item>
     <item>
       <title>Showcase</title>
       <link>//localhost:1313/showcase/</link>
