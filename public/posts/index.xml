@@ -6,14 +6,14 @@
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello Friend</title>
-      <link>//localhost:1313/posts/hello/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/hello/</guid>
-      <description>AALorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&#xA;Fusce pharetra suscipit orci nec tempor.</description>
+      <title>A first post</title>
+      <link>//localhost:1313/posts/2025.08.05-first-post/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2025.08.05-first-post/</guid>
+      <description>In my short 9 years of being a scientist/programmer I have learned a lot. I feel that the journey of scientific programming into High Performance Computing (HPC) is a common one. In my current job, my collaborators that are contributing to a weather model none of them are climate scientists nor computer scientists by education.&#xA;We are a range of physicists, mathematicians, engineers, chemists, etc. who have learned how to code in the academic fashion: &amp;ldquo;You need to write this code to write a paper so that it can get published so that you can then graduate.</description>
     </item>
   </channel>
 </rss>
