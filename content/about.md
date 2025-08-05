@@ -28,4 +28,13 @@ code to use modern HPC architectures, like GPUs.
 - Development of [PIC-SWE](https://github.com/JorgeG94/pic-swe) a shallow water equation solver using PIC as a backend
 - Development of [PIC-MBE](https://github.com/JorgeG94/pic-mbe) a many body expansion driver written in Fortran 
 
+## Other projects 
+
+I am a very regular contributor to the [GAMESS](https://www.msg.chem.iastate.edu/gamess/index.html) program for 
+quantum chemistry calculations. My goal is to modernize the Fortran 77 codebase to a modern Fortran one. 
+
+You can stalk [my github profile](https://github.com/JorgeG94) to see what I am up to. 
+
 ## Publications 
+
+Will add at some point.
