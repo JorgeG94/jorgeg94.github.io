@@ -74,10 +74,10 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Sueños Guajiros: HPC and random stuff"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "Jorge's random thoughts on many things related to HPC"
       owner = ""
       keywords = ""
       copyright = ""
