@@ -4,7 +4,8 @@ date = "2025-08-04"
 author = "Jorge"
 +++
 
-# Hi there
+# Jorge Luis Galvez Valllejo 
+## Computational Scientist 
 
 <div style="display: flex; align-items: flex-start; gap: 2em; flex-wrap: wrap;">
 <div style="flex: 1; min-width: 220px;">
